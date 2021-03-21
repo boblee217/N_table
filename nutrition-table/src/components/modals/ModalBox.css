@@ -1,0 +1,22 @@
+.modal-component {
+	display: block;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	right: 0;
+	top: 50px;
+	overflow: hidden;
+	margin: 0 auto;
+	width: 50%;
+}
+
+.modal-dim {
+	z-index: -1;
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: black;
+	opacity: 0.5;
+}

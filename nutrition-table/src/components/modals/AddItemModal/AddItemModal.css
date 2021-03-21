@@ -1,0 +1,28 @@
+.modal-add-item {
+	width: 100%;
+}
+.modal-content {
+	background-color: #fff;
+	padding: 50px;
+}
+.modal-input {
+	padding: 20px;
+}
+.modal-input input {
+	width: 100%;
+	height: 30px;
+}
+.btn-submit {
+	background-color: #277120;
+	color: #fff;
+	width: 100%;
+}
+
+.modal-error {
+	width: 100%;
+	line-height: 30px;
+	text-align: center;
+	color: #fff;
+	font-weight: 600;
+	background-color: rgb(255, 195, 44);
+}
